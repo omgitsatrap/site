@@ -5,7 +5,7 @@ document.getElementsByClassName('pageheader')[0].innerHTML = '<h1>Группа �
 
 document.getElementsByClassName('c1')[0].innerHTML = 'Другие названия:юaп, юaп-cпб, группа компаний юaп-спб, юaп хoлдинг ';
 
-document.getElementsByTagName('h2').innerHTML = 'НЕ Мошенник';
+document.getElementsByTagName('h2')[0].innerHTML = 'НЕ Мошенник';
 
 document.getElementsByClassName('c1')[1].innerHTML = 'Сотрудники компании ЮAП попросили меня разместить положительный отзыв об их работе :) , что я собственно и сделаю с некоторыми оговорками<br>' +
     '<br>' +
