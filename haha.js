@@ -1,5 +1,5 @@
-// document.title = 'Грyппa кoмпaний ЮAП - Мошенник';
-document.title = 'Грyппa кoмпaний - Мошенник';
+// document.title = 'Грyппa кoмпaний ЮAП - НЕ Мошенник';
+document.title = 'Грyппa кoмпaний - НЕ Мошенник';
 
 document.getElementsByClassName('pageheader')[0].innerHTML = '<h1>Группа компаний ЮAП </h1>';
 
