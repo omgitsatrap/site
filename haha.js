@@ -7,7 +7,7 @@ document.getElementsByClassName('c1')[0].innerHTML = 'Другие назван�
 
 document.getElementsByTagName('h2')[0].innerHTML = 'Проверка';
 
-document.getElementsByClassName('detaildata').addClass( "check" );
+document.querySelector('detaildata').addClass("check");
 
 document.getElementsByClassName('c1')[1].innerHTML = 'Сотрудники компании ЮAП попросили меня разместить положительный отзыв об их работе :) , что я собственно и сделаю с некоторыми оговорками<br>' +
     '<br>' +
